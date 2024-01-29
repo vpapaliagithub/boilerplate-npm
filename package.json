@@ -13,5 +13,5 @@
 	},
 	"author": "vpapalia",
   	"description": "My first trial of npm package",
-	"keywords:" ["freecodecamp", "trial"]
+	"keywords": ["freecodecamp", "trial"]
 }
