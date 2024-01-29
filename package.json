@@ -12,7 +12,11 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "vpapalia",
-  	"description": "My first trial of npm package",
+  "description": "My first trial of npm package",
 	"keywords": ["freecodecamp", "trial"],
-	"license": "free"
+	"license": "free",
+  "version": "0.0.1",
+  "dependencies": {
+		"@freecodecamp/example": "^1.2.13"
+  }
 }
